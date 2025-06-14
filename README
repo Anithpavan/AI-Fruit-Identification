@@ -1,0 +1,24 @@
+# 🍓 Fruit Identification Web App
+
+This is a deep learning-powered fruit classification system built using a custom-trained CNN and deployed via a Flask web app.
+
+## 🔍 Features
+- Image upload and instant prediction
+- Frontend: HTML, CSS
+- Backend: Flask + Python
+- CNN model trained on fruit dataset
+
+## 💡 Technologies
+- Python, Flask
+- TensorFlow/Keras
+- OpenCV
+- HTML, CSS (Bootstrap)
+
+## 🚀 How to Run
+
+```bash
+git clone https://github.com/Anithpavan/fruit-identification-app.git
+cd fruit-identification-app
+pip install -r requirements.txt
+python app.py
+
